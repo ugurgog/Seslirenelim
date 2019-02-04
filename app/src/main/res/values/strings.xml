@@ -22,13 +22,13 @@
     <string name="INVITE_YOUR_FRIENDS">Invite Your Friends</string>
 
     <string name="ADMOB_APP_ID">ca-app-pub-7227467199436307~9036188471</string>
-    <!--<string name="ADMOB_BANNER_AD_UNIT_ID">ca-app-pub-7227467199436307/6758096227</string>-->
-    <!--<string name="ADMOB_INTERSITITIAL_AD_UNIT_ID">ca-app-pub-7227467199436307/8524497679</string>-->
+    <string name="ADMOB_BANNER_AD_UNIT_ID">ca-app-pub-7227467199436307/6758096227</string>
+    <string name="ADMOB_INTERSITITIAL_AD_UNIT_ID">ca-app-pub-7227467199436307/8524497679</string>
 
 
     <!--Test-->
-    <string name="ADMOB_BANNER_AD_UNIT_ID">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="ADMOB_INTERSITITIAL_AD_UNIT_ID">ca-app-pub-3940256099942544/1033173712</string>
+    <!--<string name="ADMOB_BANNER_AD_UNIT_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ADMOB_INTERSITITIAL_AD_UNIT_ID">ca-app-pub-3940256099942544/1033173712</string>-->
 
 
 </resources>
