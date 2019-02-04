@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "152631808237",
+    "firebase_url": "https://sesli-ogrenelim-e340d.firebaseio.com",
+    "project_id": "sesli-ogrenelim-e340d",
+    "storage_bucket": "sesli-ogrenelim-e340d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152631808237:android:1b6c5fa09e48ca07",
+        "android_client_info": {
+          "package_name": "uren.com.seslirenelim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152631808237-q2jt02qg2g6ujm428otu0lgsk0hanpub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uren.com.seslirenelim",
+            "certificate_hash": "835135492279180c8c9d6517641665756f89cf21"
+          }
+        },
+        {
+          "client_id": "152631808237-649b3gfrk8s1q5250kb8ea2u28haavos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALKGv0OdGiHrElQRQrqIRvGCPWWV7nVz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152631808237-649b3gfrk8s1q5250kb8ea2u28haavos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

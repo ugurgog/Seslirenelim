@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Sesli Öğrenelim</string>
+
+    <string name="ANIMALS">ANIMALS</string>
+    <string name="COLORS">COLORS</string>
+    <string name="VEHICLES">VEHICLES</string>
+    <string name="SHAPES">SHAPES</string>
+    <string name="JOBS">JOBS</string>
+    <string name="FRUITS_AND_VEGETABLES">FRUITS AND VEGETABLES</string>
+    <string name="NUMBERS">NUMBERS</string>
+    <string name="BODY_PARTS">BODY PARTS</string>
+
+    <string name="ANIMALS_TR">HAYVANLAR</string>
+    <string name="COLORS_TR">RENKLER</string>
+    <string name="VEHICLES_TR">ARAÇLAR</string>
+    <string name="SHAPES_TR">ŞEKILLER</string>
+    <string name="JOBS_TR">MESLEKLER</string>
+    <string name="FRUITS_AND_VEGETABLES_TR">MEYVELER VE SEBZELER</string>
+    <string name="NUMBERS_TR">SAYILAR</string>
+    <string name="BODY_PARTS_TR">VÜCUDUMUZ</string>
+
+    <string name="INVITE_YOUR_FRIENDS">Invite Your Friends</string>
+
+    <string name="ADMOB_APP_ID">ca-app-pub-7227467199436307~9036188471</string>
+    <!--<string name="ADMOB_BANNER_AD_UNIT_ID">ca-app-pub-7227467199436307/6758096227</string>-->
+    <!--<string name="ADMOB_INTERSITITIAL_AD_UNIT_ID">ca-app-pub-7227467199436307/8524497679</string>-->
+
+
+    <!--Test-->
+    <string name="ADMOB_BANNER_AD_UNIT_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ADMOB_INTERSITITIAL_AD_UNIT_ID">ca-app-pub-3940256099942544/1033173712</string>
+
+
+</resources>
